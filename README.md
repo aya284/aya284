@@ -3,13 +3,14 @@
 <h1 align="center">Hi, I'm Aya Fdhila 👋</h1>
 <p align="center">
   <b>Software Engineering Student (ESPRIT) • Computer Engineering Graduate (ISIMA’25)</b><br/>
-  Full-Stack & Mobile Developer — <b>Symfony (PHP)</b> • <b>Node.js</b> • <b>React Native</b> • <b>FlutterFlow</b>
+  Full-Stack & Mobile Developer — <b>Symfony (PHP)</b> • <b>Node.js</b> • <b>React Native</b> • <b>FlutterFlow</b> • <b>Next.js</b> • <b>TypeScript</b> • <b>Python</b>
 </p>
 
 <p align="center">
   <a href="https://ayafdhila.me"><b>🌐 Portfolio</b></a> •
   <a href="https://linkedin.com/in/eya-fdhila"><b>💼 LinkedIn</b></a> •
-  <a href="mailto:ayafdhila@gmail.com"><b>✉️ Email</b></a>
+  <a href="mailto:ayafdhila@gmail.com"><b>✉️ Email</b></a> •
+  <a href="https://www.facebook.com/aya.fdhila/"><b>📘 Facebook</b></a>
 </p>
 
 <p align="center">
@@ -20,6 +21,10 @@
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/FlutterFlow-111827?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PHPUnit-111827?style=for-the-badge&logo=php&logoColor=white" />
 </p>
